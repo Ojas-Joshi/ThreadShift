@@ -6,8 +6,6 @@
   
 <h2>Features</h2>
 
-Here're some of the project's best features:
-
 *   Clothes and Apparel Editing:
 *   User-Prompted Modifications:
 *   Stable Diffusion 2 Inpainting:
